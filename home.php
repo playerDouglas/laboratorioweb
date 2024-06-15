@@ -35,7 +35,7 @@
 </head>
 <body>
     <h1>Inscreva-se no canal ;)</h1>
-    <h2>Prof. Gustavo Neitzke</h2>
+    <h2>Prof. Douglas Bastos</h2>
     <div class="box">
         <a href="login.php">Login</a>
         <a href="formulario.php">Cadastre-se</a>
