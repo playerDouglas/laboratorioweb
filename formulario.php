@@ -123,7 +123,7 @@
     <div class="box">
         <form action="formulario.php" method="POST">
             <fieldset>
-                <legend><b>Fórmulário de Clientes</b></legend>
+                <legend><b>Fórmulário de Usuários</b></legend>
                 <br>
                 <div class="inputBox">
                     <input type="text" name="nome" id="nome" class="inputUser" required>
