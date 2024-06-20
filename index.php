@@ -35,7 +35,7 @@
 </head>
 <body>
     <h1>Bem-vindo à área de tecnologia</h1>
-    <h2>Faça seu login ou cadatre-se</h2>
+    <h2>Faça seu login ou cadastre-se</h2>
     <div class="box">
         <a href="login.php">Login</a>
         <a href="formulario.php">Cadastre-se</a>
